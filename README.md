@@ -1,4 +1,5 @@
-# SSW-690 Project
+# Travel_Geni
+Platform for uploading your travel itenrary and sharing it with other users
 
 ## To install the required Python packages...
 * At the command prompt: pip install -r requirements.txt
